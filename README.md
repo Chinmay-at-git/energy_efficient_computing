@@ -1,2 +1,3 @@
-# energy_efficient_computing
-Energy Efficient Computing
+# Energy Efficient Computing 
+
+Power Benchmarking Xeon Phi (Knights Landing) vs Xeon Phi (Knights Corner)
